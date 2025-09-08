@@ -1,6 +1,9 @@
-# Odin Project
+# Odin Project Timeline
 
-##  Started September 8, 2025
+##  September 8, 2025
+
+Fist day of documenting progress on the odin project. Right now barely starting to learn HTML.
+
 
 
 
