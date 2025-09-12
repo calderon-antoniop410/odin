@@ -9,3 +9,7 @@ WWWWW
 
 ## September 10, 2025
 Finished up doing a recipe-project with HTML can go back on it later to improve it.
+
+#September 12, 2025
+Learning css, classes, ids 
+
